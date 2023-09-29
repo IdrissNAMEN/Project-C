@@ -1,9 +1,0 @@
-# depslib dependency file v1.0
-1693495673 source:d:\dossier esiea\note de cours\semestre 1\langage c\project c\main.c
-	<stdio.h>
-	<stdlib.h>
-	<string.h>
-	<ctype.h>
-	<windows.h>
-	<time.h>
-
