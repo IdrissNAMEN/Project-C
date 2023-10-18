@@ -1,5 +1,7 @@
 ﻿  main.c
-C:\Users\tchou\source\repos\Projet-C\Projet-C\main.c(74,2): warning C4013: 'getch' non défini(e) ; extern retournant int pris par défaut
-C:\Users\tchou\source\repos\Projet-C\Projet-C\main.c(84,7): warning C4101: 'modedepasse' : variable locale non référencée
-C:\Users\tchou\source\repos\Projet-C\Projet-C\main.c(84,24): warning C4101: 'code' : variable locale non référencée
-  Projet-C.vcxproj -> C:\Users\tchou\source\repos\Projet-C\x64\Debug\Projet-C.exe
+C:\Users\tchou\source\repos\Projet-C\Projet-C\main.c(76,2): warning C4013: 'getch' non défini(e) ; extern retournant int pris par défaut
+C:\Users\tchou\source\repos\Projet-C\Projet-C\main.c(86,7): warning C4101: 'modedepasse' : variable locale non référencée
+C:\Users\tchou\source\repos\Projet-C\Projet-C\main.c(86,24): warning C4101: 'code' : variable locale non référencée
+  LINK : C:\Users\tchou\source\repos\Projet-C\x64\Debug\Projet-C.exe introuvable ou non généré par la dernière édition de liens incrémentielle ; édition de liens complète en cours
+main.obj : error LNK2019: symbole externe non résolu menuPrincipal référencé dans la fonction main
+C:\Users\tchou\source\repos\Projet-C\x64\Debug\Projet-C.exe : fatal error LNK1120: 1 externes non résolus

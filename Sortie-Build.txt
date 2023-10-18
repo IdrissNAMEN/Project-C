@@ -1,0 +1,11 @@
+﻿1>------ Générer démarré : projet : Projet-C, configuration : Debug|x64 ------
+1>  main.c
+1>C:\Users\tchou\source\repos\Projet-C\Projet-C\main.c(81,2): warning C4013: 'getch' non défini(e) ; extern retournant int pris par défaut
+1>C:\Users\tchou\source\repos\Projet-C\Projet-C\main.c(91,7): warning C4101: 'modedepasse' : variable locale non référencée
+1>C:\Users\tchou\source\repos\Projet-C\Projet-C\main.c(91,24): warning C4101: 'code' : variable locale non référencée
+1>C:\Users\tchou\source\repos\Projet-C\Projet-C\main.c(142,1): warning C4102: 'main' : étiquette non référencée
+1>C:\Users\tchou\source\repos\Projet-C\Projet-C\main.c(180,11): warning C4244: 'fonction' : conversion de 'time_t' en 'unsigned int', perte possible de données
+1>C:\Users\tchou\source\repos\Projet-C\Projet-C\main.c(230,10): warning C4101: 'nom' : variable locale non référencée
+1>C:\Users\tchou\source\repos\Projet-C\Projet-C\main.c(450,6): error C2084: la fonction 'void lancerFeu(int,int,char **,int *,int *)' a déjà un corps
+1>C:\Users\tchou\source\repos\Projet-C\Projet-C\main.c(197,6): message : voir la définition précédente de 'lancerFeu'
+========== Générer : 0 réussie(s), 1 non réussie(s), 0 à jour, 0 ignorée(s) ==========

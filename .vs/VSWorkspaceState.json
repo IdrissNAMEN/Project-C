@@ -1,12 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Debug",
-    "\\obj",
-    "\\obj\\Debug",
     "\\Projet-C",
-    "\\Projet-C\\Debug"
+    "\\Projet-C\\Debug",
+    "\\x64",
+    "\\x64\\Debug"
   ],
-  "SelectedNode": "\\Projet-C\\main.c",
+  "SelectedNode": "\\Projet-C\\Debug",
   "PreviewInSolutionExplorer": false
 }
